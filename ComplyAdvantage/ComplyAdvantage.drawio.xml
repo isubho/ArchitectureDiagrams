@@ -1,6 +1,6 @@
-<mxfile modified="2021-10-06T23:02:16.389Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="wT-wRTFOGJUjjv3J6gga" version="15.4.3" type="github">
+<mxfile modified="2021-10-06T23:08:33.894Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="QPl6AAOKohBXlollUI6w" version="15.4.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1422" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2205" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
           <mxGeometry x="530" y="220" width="1060" height="270" as="geometry" />
         </mxCell>
         <mxCell id="cAN2jL9gPfgp9NENtOy1-23" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="250" width="280" height="230" as="geometry" />
+          <mxGeometry x="590" y="234" width="280" height="230" as="geometry" />
         </mxCell>
         <mxCell id="cAN2jL9gPfgp9NENtOy1-26" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="250" width="610" height="230" as="geometry" />
